@@ -2,18 +2,18 @@
   "category1":[
     {
       "id":1,
-      "title":"Menu1",
-      "link":"/nav/menu1"
+      "title":"Card bg red",
+      "link":"/card/ff0000"
     },
     {
       "id":2,
-      "title":"Menu2",
-      "link":"/nav/menu2"
+      "title":"Card bg green",
+      "link":"/card/00ff00"
     },
     {
       "id":3,
-      "title":"Menu3",
-      "link":"/nav/menu3"
+      "title":"Card bg blue",
+      "link":"/card/0000ff"
     }
   ]
 }
